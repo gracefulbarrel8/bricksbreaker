@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Visual Studio Code specific
+.vscode/
+
+# Distribution / Build
+build/
+dist/
+*.spec
