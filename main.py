@@ -87,4 +87,4 @@ while is_game_on:
         is_game_on = False
         score.game_over()
 
-screen.exitonclick() my name is aarav
+screen.exitonclick()
